@@ -24,6 +24,7 @@
 
 | | |
 |---|---|
+| [Skyline](https://github.com/vivekchopra/skyline) | Controlling for architecture drift in AI-generated code |
 | [Postulate](https://github.com/vivekchopra/postulate) | Spec-first validation and guardrails for AI-generated code |
 
 ### elsewhere
