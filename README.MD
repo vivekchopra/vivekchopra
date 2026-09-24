@@ -29,6 +29,13 @@
 | [UDDI4j](https://uddi4j.sourceforge.net/)([mirror](https://github.com/vivekchopra/wingfoot_soap)) | Reference implementation of the [UDDI](https://www.uddi.org/) client. _This is mostly of historical/academic interest now!_ |
 | [Wingfoot SOAP](https://uddi4j.sourceforge.net/),([mirror](https://github.com/vivekchopra/uddi4j)) | Implementation of a lightweight [SOAP](https://en.wikipedia.org/wiki/SOAP) client, designed for MIDP/CLDC, Personal Java/CDC, J2SE and J2EE platforms. _This too is mostly of historical/academic interest!_ |
 
+### standards
+
+| | |
+|---|---|
+| [JSR280](https://jcp.org/en/jsr/detail?id=280) | Java XML API for mobile devices|
+| [JSR319](https://jcp.org/en/jsr/detail?id=319) | Availability management for Java|
+
 ### elsewhere
 
 [vivekchopra.com](https://www.vivekchopra.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/chopra) &nbsp;·&nbsp; [techrxiv](https://www.techrxiv.org/users/928372) ·&nbsp;&nbsp; [amazon books](https://www.amazon.com/stores/Vivek-Chopra/author/B001IU0UZG?ccs_id=3e23b85a-7426-4e41-88fc-2ae643b0cf1e)
