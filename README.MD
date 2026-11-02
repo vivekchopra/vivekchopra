@@ -25,8 +25,8 @@
 
 | | |
 |---|---|
+| [Altdown](https://altdown.org) | Open standard that gives publishers control over what AI agents read, and cuts the token cost of reading it |
 | [Agent Web Commons](https://github.com/agentwebcommons/) | Open standards and tools for the agent-facing web |
-| [Altdown](https://altdown.org) | Open standard for making web content easier for AI agents to discover and read |
 | [UDDI4j](https://uddi4j.sourceforge.net/)([mirror](https://github.com/vivekchopra/wingfoot_soap)) | Reference implementation of the [UDDI](https://www.uddi.org/) client. _This is mostly of historical/academic interest now!_ |
 | [Wingfoot SOAP](https://uddi4j.sourceforge.net/),([mirror](https://github.com/vivekchopra/uddi4j)) | Implementation of a lightweight [SOAP](https://en.wikipedia.org/wiki/SOAP) client, designed for MIDP/CLDC, Personal Java/CDC, J2SE and J2EE platforms. _This too is mostly of historical/academic interest!_ |
 
